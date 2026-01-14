@@ -1,6 +1,6 @@
 # Connecting a Database 
 
-This is a server set up that uses axios to communicate with my MongoDB cluster
+This is a server set up that communicates with my MongoDB cluster
 
 ### Description
 
